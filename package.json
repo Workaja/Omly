@@ -1,0 +1,16 @@
+{
+  "name": "omly",
+  "version": "1.0.0",
+  "description": "small utility for do omit and only functions for non-ts programming language",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "omit",
+    "only",
+    "js"
+  ],
+  "author": "workaja",
+  "license": "ISC"
+}
